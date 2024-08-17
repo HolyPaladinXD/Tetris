@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Images/iconExit.ico</file>
+        <file>Images/iconInfo.ico</file>
+        <file>Images/iconInstructions.ico</file>
+        <file>Images/iconNewGame.ico</file>
+        <file>Images/Tetris.png</file>
+    </qresource>
+    <qresource lang="ru" prefix="/Translations">
+        <file>Tetris_ru_RU.qm</file>
+    </qresource>
+</RCC>
